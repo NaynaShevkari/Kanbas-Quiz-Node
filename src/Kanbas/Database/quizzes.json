@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Aerodynamics Quiz",
+    "description": "A quiz to test knowledge on basic aerodynamic concepts and fluid dynamics principles.",
+    "quizType": "GRADED_QUIZ",
+    "assignmentGroup": "QUIZZES",
+    "shuffleAnswers": true,
+    "timeLimit": 20,
+    "multipleAttemps": false,
+    "showCorrectAnswers": "NEVER",
+    "accessCode": "",
+    "oneQuestionAtATime": true,
+    "webcamRequired": false,
+    "lockQuestionsAfterAnswering": false,
+    "published": false,
+    "dueDate": "2024-06-30T23:59:59Z",
+    "availableDate": "2024-06-01T00:00:00Z",
+    "untilDate": "2024-07-01T23:59:59Z",
+    "points": 30,
+    "numQuestions": 6,
+    "course": "RS101"
+    
+
+  },
+  {
+    "title": "Combustion Analysis Quiz",
+    "description": "A quiz to assess understanding of combustion processes and efficiency.",
+    "quizType": "GRADED_QUIZ",
+    "assignmentGroup": "QUIZZES",
+    "shuffleAnswers": true,
+    "timeLimit": 20,
+    "multipleAttemps": false,
+    "showCorrectAnswers": "NEVER",
+    "accessCode": "",
+    "oneQuestionAtATime": true,
+    "webcamRequired": false,
+    "lockQuestionsAfterAnswering": false,
+    "published": false,
+    "dueDate": "2024-06-30T23:59:59Z",
+    "availableDate": "2024-06-01T00:00:00Z",
+    "untilDate": "2024-07-01T23:59:59Z",
+    "points": 20,
+    "numQuestions": 2,
+    "course": "RS101"
+  },
+  {
+    "title": "Propulsion Assignment Quiz",
+    "description": "A quiz covering the basics of rocket propulsion and engine types.",
+    "quizType": "GRADED_QUIZ",
+    "assignmentGroup": "QUIZZES",
+    "shuffleAnswers": true,
+    "timeLimit": 20,
+    "multipleAttemps": false,
+    "showCorrectAnswers": "NEVER",
+    "accessCode": "",
+    "oneQuestionAtATime": true,
+    "webcamRequired": false,
+    "lockQuestionsAfterAnswering": false,
+    "published": false,
+    "dueDate": "2024-06-30T23:59:59Z",
+    "availableDate": "2024-06-01T00:00:00Z",
+    "untilDate": "2024-07-01T23:59:59Z",
+    "points": 20,
+    "numQuestions": 2,
+    "course": "RS101"
+   
+  }
+]
